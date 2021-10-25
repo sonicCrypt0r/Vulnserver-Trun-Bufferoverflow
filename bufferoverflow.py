@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# Author: Github: sonicCrypt0r (https://github.com/sonicCrypt0r)
 
 import socket
 import struct
